@@ -4,11 +4,6 @@
 
 ---
 
-## 🌐 Demo
-🎥 Video Demo: https://www.youtube.com/watch?v=4fz2eoAz8P8
-
----
-
 ## 🧠 Project Overview
 
 This project is a **real-time Speech-to-Text system** designed to convert spoken audio into accurate text using modern AI and distributed system architecture.
@@ -56,16 +51,6 @@ The system follows a **distributed event-driven architecture**:
 
 ### AI / Cloud
 - Google Cloud Speech-to-Text API
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <img src="images/architecture.png" width="800" style="margin-bottom:20px;" />
-  <img src="images/system_flow.png" width="800" style="margin-bottom:20px;" />
-  <img src="images/demo.png" width="800" />
-</div>
 
 ---
 
