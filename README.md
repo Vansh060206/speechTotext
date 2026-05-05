@@ -4,6 +4,16 @@
 
 ---
 
+## 🚀 Highlights
+
+- Designed a **Kafka-based event-driven pipeline** for real-time speech processing  
+- Built a **scalable distributed system** handling concurrent audio streams  
+- Integrated **cloud-based AI speech recognition APIs**  
+- Implemented **low-latency streaming using WebSockets**  
+- Demonstrates **production-level backend and system design thinking**
+
+---
+
 ## 🧠 Project Overview
 
 This project is a **real-time Speech-to-Text system** designed to convert spoken audio into accurate text using modern AI and distributed system architecture.
