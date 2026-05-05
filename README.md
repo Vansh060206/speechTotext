@@ -52,7 +52,7 @@ The system follows a **distributed event-driven architecture**:
 ### AI / Cloud
 - Google Cloud Speech-to-Text API
 
----
+--
 
 ## 🔗 How It Works
 
